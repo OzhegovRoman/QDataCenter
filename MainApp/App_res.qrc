@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>Images/application_cascade.png</file>
+        <file>Images/application_tile_horizontal.png</file>
+        <file>Images/control_pause_record.png</file>
+        <file>Images/disk.png</file>
+        <file>Images/door_in.png</file>
+        <file>Images/folder.png</file>
+        <file>Images/help.png</file>
+        <file>Images/icon64.png</file>
+        <file>Images/info_rhombus.png</file>
+        <file>Images/page_add.png</file>
+        <file>Images/plugin.png</file>
+        <file>Images/printer.png</file>
+        <file>Images/run.png</file>
+        <file>Images/save_as.png</file>
+        <file>Images/screwdriver.png</file>
+        <file>Images/speedometer.png</file>
+        <file>Images/update.png</file>
+        <file>Images/Icon.png</file>
+    </qresource>
+</RCC>
