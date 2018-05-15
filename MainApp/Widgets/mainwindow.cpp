@@ -49,7 +49,6 @@ MainWindow::~MainWindow()
 
 void MainWindow::updateWindowMenu()
 {
-
     //Refresh Menu
     QList<QMdiSubWindow *> windows = ui->mdiArea->subWindowList();
     bool empty_window = windows.isEmpty();

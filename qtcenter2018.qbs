@@ -5,7 +5,9 @@ Project {
     property string softwareVersion: "6.0.1"
 
     references: [
-        "MainApp/MainApplication.qbs"
+        "MainApp/MainApplication.qbs",
+        "Api/API.qbs"
+
     ]
 
 }

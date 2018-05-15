@@ -17,6 +17,7 @@ CppApplication{
         "../Api/"
     ]
 
+    Depends {name: "QtCenterAPI"}
     Depends {
         name: "Qt";
         submodules: [
@@ -26,15 +27,15 @@ CppApplication{
         ]
     }
 
-    Group {
-        name: "API"
-        prefix: "./../Api/**/*"
-        files: [
-            "*.cpp",
-            "*.h",
-            "*.ui"
-        ]
-    }
+//    Group {
+//        name: "API"
+//        prefix: "./../Api/**/*"
+//        files: [
+//            "*.cpp",
+//            "*.h",
+//            "*.ui"
+//        ]
+//    }
 
     Group {
         name: "Source"
